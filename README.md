@@ -15,4 +15,10 @@
 - Scrum
 - SOLID
 - Responsive Design
-- Unit Testing
+- Unit Testing.
+
+:gear: DevOps:
+- AWS
+- CI/CD
+- Docker
+- Git
