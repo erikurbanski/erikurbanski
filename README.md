@@ -2,32 +2,14 @@
 
 🚀 Sou desenvolvedor full stack com mais de 10 anos de experiência em projetos de tecnologia, especialmente nas áreas de business intelligence, soluções web e aplicativos. Pós-graduado em Desenvolvimento Java e Banco de Dados pelo Centro Universitário do Triângulo, onde também me formei em Ciência da Computação.
 
-☕  Tecnologias:
-- Java
-- JavaScript
-- PHP
-- Python.
 
-:open_file_folder: Banco de Dados:
-- MySQL
-- MongoDB
-- Oracle
-- PostgreSQL
-- Redis
+☕  **Tecnologias:** Java, JavaScript, PHP e Python.
 
-✨ Metodologias:
-- Clean Code
-- Design Patterns
-- Domain-Driven Design
-- SOLID
-- Responsive Design
-- Unit Testing.
+:open_file_folder: **Banco de Dados:** MySQL, MongoDB, Oracle, PostgreSQL, Redis e SQLite.
 
-:gear: DevOps:
-- AWS
-- CI/CD
-- Docker
-- Git.
+✨ **Metodologias:** Clean Code, Design Patterns, Domain-Driven Design, SOLID, Responsive Design e Unit Testing.
+
+:gear: **DevOps:** AWS, CI/CD, Docker e Git.
 
 <a href="https://www.linkedin.com/in/erikurbanski" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
