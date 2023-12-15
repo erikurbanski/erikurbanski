@@ -8,6 +8,13 @@
 - PHP
 - Python.
 
+:open_file_folder: Banco de Dados:
+- MySQL
+- MongoDB
+- Oracle
+- PostgreSQL
+- Redis
+
 ✨ Workflows:
 - Clean Code
 - Design Patterns
