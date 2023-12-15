@@ -15,11 +15,10 @@
 - PostgreSQL
 - Redis
 
-✨ Workflows:
+✨ Metodologias:
 - Clean Code
 - Design Patterns
 - Domain-Driven Design
-- Scrum
 - SOLID
 - Responsive Design
 - Unit Testing.
