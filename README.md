@@ -9,7 +9,7 @@
 
 ✨ **Metodologias:** Clean Code, Design Patterns, Domain-Driven Design, SOLID, Responsive Design e Unit Testing.
 
-:gear: **DevOps:** Ansible, AWS, CI/CD, Docker, Git, Kubernetes e Vagrant.
+:gear: **DevOps:** Ansible, AWS, CI/CD, Docker, Git, Kubernetes, Linux e Vagrant.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/erikurbanski" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
